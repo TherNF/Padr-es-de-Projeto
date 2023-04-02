@@ -1,2 +1,2 @@
-# Padr-es-de-Projeto
+# Padrões-de-Projeto
 Orange Tech + | BackEnd
