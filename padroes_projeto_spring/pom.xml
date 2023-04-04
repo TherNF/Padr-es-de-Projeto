@@ -36,8 +36,6 @@
 		</dependency>
 
 
-
-
 		<!-- H2 Database (adicionado via Spring Initializr) -->
 		<dependency>
 			<groupId>com.h2database</groupId>
